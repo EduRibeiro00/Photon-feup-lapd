@@ -21,35 +21,39 @@ Photon is an application capable of:
 ## Requirements
 * Docker
 * NPM
-* .env similar do .env.example in backend/
+* .env similar to .env.example in backend/
 
 ## Usage
 ### Docker Usage - Both Frontend and Backend
-* docker-compose up
-* docker-compose exec photon-backend npm run seed
+* `docker-compose up`
+* `docker-compose exec photon-backend npm run seed`
 
 ### Backend Usage 
-* cd backend
-* npm install
-* npm run neo4j
-* [npm run seed]
-* npm run dev
+* `cd backend`
+* `npm install`
+* `npm run neo4j`
+* `npm run seed`
+* `npm run dev`
 
 **Note:** If you want to use mock data, instead of real data, you can use *npm run seed* to test our application. If not, just skip that instruction.
 
 ### Frontend Usage
-* cd frontend
-* npm install
-* npm start
-* [npm build]
-* [npm eject]
+* `cd frontend`
+* `npm install`
+* `npm start`
+* `npm build`
+* `npm eject`
 
-**Note:** Check README.md file inside photon folder to see in more detail *npm start, npm build and npm eject* commands results.
+**Note:** Check the `README.md` file inside the `photon` folder to see in more detail the results from running the commands `npm start`, `npm build` and `npm eject`.
 
 ## Developers
 * [Eduardo Ribeiro](https://github.com/EduRibeiro00)
 * [Martim Pinto da Silva](https://github.com/motapinto)
 * [Miguel Pinto](https://github.com/MiguelDelPinto)
 * [Nuno Cardoso](https://github.com/nmtc01)
+
+---
+
+**Final Grade:** 18.58 / 20
 
 **Note:** This project was done in close collaboration with the [Research Center for Assistive Information and Communication Solutions – AICOS](https://www.aicos.fraunhofer.pt/en/home.html) from [Fraunhofer Portugal](https://www.fraunhofer.pt/en/about_us.html).
