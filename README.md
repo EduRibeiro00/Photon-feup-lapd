@@ -12,10 +12,10 @@ Photon is an application capable of:
 * The process of determining whether a problem is prossiming enough is not trivial. How can we gather and treat the vast amount of data revolving around energy to detect the most promising, emerging and non-obvious problems that need to be solved?
 
 ## [Data sources](https://github.com/EduRibeiro00/feup-lapd/wiki/Sources-API-Information)
-### Social Media API's
+### Social Media APIs
 * [Reddit API](https://pushshift.io/api-parameters/)
 * [Twitter API](https://developer.twitter.com/en/docs/twitter-api/api-reference-index)
-### News API's
+### News APIs
 * [Usearch API](https://usearch.com/)
 
 ## Requirements
