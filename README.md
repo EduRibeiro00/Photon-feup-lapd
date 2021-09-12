@@ -1,3 +1,15 @@
+# LAPD Class Assignments and Projects
+
+**2020/2021** - 4th Year, 2nd Semester
+
+**Course:** Linguagens de Anotação e Processamento de Documentos ([LAPD](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459512)) | Markup Languages and Document Processing
+
+**Project developed by:** Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)), Martim Pinto da Silva ([motapinto](https://github.com/motapinto)), Miguel Pinto ([MiguelDelPinto](https://github.com/MiguelDelPinto)) and Nuno Cardoso ([nmtc01](https://github.com/nmtc01))
+
+**Disclaimer** - This repository was used for educational purposes and I do not take any responsibility for anything related to its content. You are free to use any code or algorithm you find, but do so at your own risk.
+
+---
+
 # Photon
 
 ## Description
@@ -45,12 +57,6 @@ Photon is an application capable of:
 * `npm eject`
 
 **Note:** Check the `README.md` file inside the `photon` folder to see in more detail the results from running the commands `npm start`, `npm build` and `npm eject`.
-
-## Developers
-* [Eduardo Ribeiro](https://github.com/EduRibeiro00)
-* [Martim Pinto da Silva](https://github.com/motapinto)
-* [Miguel Pinto](https://github.com/MiguelDelPinto)
-* [Nuno Cardoso](https://github.com/nmtc01)
 
 ---
 
